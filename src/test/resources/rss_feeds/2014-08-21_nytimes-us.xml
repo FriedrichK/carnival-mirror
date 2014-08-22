@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://rss.nytimes.com/xsl/eng/rss.xsl'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+    <atom:link href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"/>
+    <title>NYT &gt; Home Page</title>
+    <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    <description>HomePage</description>
+    <language>en-us</language>
+    <copyright>Copyright 2014 The New York Times Company</copyright>
+    <pubDate>Thu, 21 Aug 2014 12:37:56 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2014 12:37:56 GMT</lastBuildDate>
+    <ttl>2</ttl>
+    <image>
+        <title>NYT &gt; Home Page</title>
+        <url>http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png</url>
+        <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/22/us/politics/racial-divide-seen-in-response-to-ferguson-unrest-poll-finds.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Racial Divide Seen in Response to Ferguson Unrest, Poll Finds</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db84a4c/sc/7/l/0L0Snytimes0N0C20A140C0A80C220Cus0Cpolitics0Cracial0Edivide0Eseen0Ein0Eresponse0Eto0Eferguson0Eunrest0Epoll0Efinds0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>A New York Times/CBS News poll found that white Americans are more supportive of Gov. Jay Nixon’s approach to the violence in Missouri than blacks.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db84a4c/sc/7/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366760981/u/192/f/640350/c/34625/s/3db84a4c/sc/7/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366760981/u/192/f/640350/c/34625/s/3db84a4c/sc/7/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366760981/u/192/f/640350/c/34625/s/3db84a4c/sc/7/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366760981/u/192/f/640350/c/34625/s/3db84a4c/sc/7/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366760981/u/192/f/640350/c/34625/s/3db84a4c/sc/7/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366760981/u/192/f/640350/c/34625/s/3db84a4c/sc/7/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366760981/u/192/f/640350/c/34625/s/3db84a4c/sc/7/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366760981/u/192/f/640350/c/34625/s/3db84a4c/sc/7/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366760981/u/192/f/640350/c/34625/s/3db84a4c/sc/7/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Michael (1996-2014)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferguson (Mo)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+        <pubDate>Thu, 21 Aug 2014 12:34:25 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/22/us/politics/racial-divide-seen-in-response-to-ferguson-unrest-poll-finds.html</guid>
+        <dc:creator>By MARJORIE CONNELLY</dc:creator>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/22/us/politics/trial-of-former-virginia-governor-bob-mcdonnell.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Ex-Governor to Return to Stand in Virginia Corruption Trial</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db83865/sc/1/l/0L0Snytimes0N0C20A140C0A80C220Cus0Cpolitics0Ctrial0Eof0Eformer0Evirginia0Egovernor0Ebob0Emcdonnell0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Lawyers for Bob McDonnell have promised to detail the marital woes that they say would have prevented the former first couple from any criminal conspiracy.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db83865/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/206156962414/u/192/f/640350/c/34625/s/3db83865/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/206156962414/u/192/f/640350/c/34625/s/3db83865/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/206156962414/u/192/f/640350/c/34625/s/3db83865/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/206156962414/u/192/f/640350/c/34625/s/3db83865/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/206156962414/u/192/f/640350/c/34625/s/3db83865/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/206156962414/u/192/f/640350/c/34625/s/3db83865/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/206156962414/u/192/f/640350/c/34625/s/3db83865/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/206156962414/u/192/f/640350/c/34625/s/3db83865/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/206156962414/u/192/f/640350/c/34625/s/3db83865/sc/1/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McDonnell, Maureen Patricia Gardner</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McDonnell, Robert F</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts to Public Officials</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Corruption (Institutional)</category>
+        <pubDate>Thu, 21 Aug 2014 12:20:10 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/22/us/politics/trial-of-former-virginia-governor-bob-mcdonnell.html</guid>
+        <dc:creator>By JONATHAN WEISMAN and JENNIFER STEINHAUER</dc:creator>
+    </item>
+    <item>
+        <atom:link href="http://cityroom.blogs.nytimes.com/2014/08/21/new-york-today-the-easiest-hardest-month/?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>City Room: New York Today: The Easiest, Hardest Month</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db6be6f/sc/10/l/0Lcityroom0Bblogs0Bnytimes0N0C20A140C0A80C210Cnew0Eyork0Etoday0Ethe0Eeasiest0Ehardest0Emonth0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>What you need to know in New York for Thursday: joys and woes of August, unsettled weather, and parking tickets delivered by email.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db6be6f/sc/10/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366755596/u/192/f/640350/c/34625/s/3db6be6f/sc/10/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366755596/u/192/f/640350/c/34625/s/3db6be6f/sc/10/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366755596/u/192/f/640350/c/34625/s/3db6be6f/sc/10/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366755596/u/192/f/640350/c/34625/s/3db6be6f/sc/10/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366755596/u/192/f/640350/c/34625/s/3db6be6f/sc/10/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366755596/u/192/f/640350/c/34625/s/3db6be6f/sc/10/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366755596/u/192/f/640350/c/34625/s/3db6be6f/sc/10/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366755596/u/192/f/640350/c/34625/s/3db6be6f/sc/10/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366755596/u/192/f/640350/c/34625/s/3db6be6f/sc/10/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/">New York Today</category>
+        <pubDate>Thu, 21 Aug 2014 11:49:20 GMT</pubDate>
+        <guid isPermaLink="false">http://cityroom.blogs.nytimes.com/2014/08/21/new-york-today-the-easiest-hardest-month/</guid>
+        <dc:creator>By ANNIE CORREAL and ANDY NEWMAN</dc:creator>
+        <media:credit scheme="urn:ebu">Ozier Muhammad/The New York Times; Christopher Gregory/The New York Times; Emon Hassan/The New York Times; Hiroko Masuike/The New York Times.</media:credit>
+        <media:description>Hey, where did everybody go?</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/nyregion/21NYTODAY/21NYTODAY-moth.jpg"/>
+    </item>
+    <item>
+        <title>Aid Group: US Doctor Who Had Ebola Has Recovered</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db6d2a0/sc/1/l/0L0Snytimes0N0Caponline0C20A140C0A80C210Cus0Cap0Eus0Eamericans0Eebola0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>At least one of the two American aid workers who were infected with the deadly Ebola virus in Africa has recovered and was to be discharged Thursday from an Atlanta hospital, a spokeswoman for the aid group he was working for said.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db6d2a0/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366778203/u/192/f/640350/c/34625/s/3db6d2a0/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366778203/u/192/f/640350/c/34625/s/3db6d2a0/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366778203/u/192/f/640350/c/34625/s/3db6d2a0/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366778203/u/192/f/640350/c/34625/s/3db6d2a0/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366778203/u/192/f/640350/c/34625/s/3db6d2a0/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366778203/u/192/f/640350/c/34625/s/3db6d2a0/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366778203/u/192/f/640350/c/34625/s/3db6d2a0/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366778203/u/192/f/640350/c/34625/s/3db6d2a0/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366778203/u/192/f/640350/c/34625/s/3db6d2a0/sc/1/a2t.img" border="0"/&gt;</description>
+        <pubDate>Thu, 21 Aug 2014 11:14:59 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/aponline/2014/08/21/us/ap-us-americans-ebola.html</guid>
+        <dc:creator>By THE ASSOCIATED PRESS</dc:creator>
+    </item>
+    <item>
+        <title>Indonesian Police Fire Tear Gas at Poll Protesters</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db63cfc/sc/1/l/0L0Snytimes0N0Caponline0C20A140C0A80C210Cworld0Casia0Cap0Eas0Eindonesia0Eelection0Echallenge0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Supporters of the losing Indonesian presidential candidate Prabowo Subianto clashed with the police Thursday as the country’s top judges began reading a verdict on his petition to overturn the election results.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db63cfc/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366751385/u/192/f/640350/c/34625/s/3db63cfc/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366751385/u/192/f/640350/c/34625/s/3db63cfc/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366751385/u/192/f/640350/c/34625/s/3db63cfc/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366751385/u/192/f/640350/c/34625/s/3db63cfc/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366751385/u/192/f/640350/c/34625/s/3db63cfc/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366751385/u/192/f/640350/c/34625/s/3db63cfc/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366751385/u/192/f/640350/c/34625/s/3db63cfc/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366751385/u/192/f/640350/c/34625/s/3db63cfc/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366751385/u/192/f/640350/c/34625/s/3db63cfc/sc/1/a2t.img" border="0"/&gt;</description>
+        <pubDate>Thu, 21 Aug 2014 10:47:55 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/aponline/2014/08/21/world/asia/ap-as-indonesia-election-challenge.html</guid>
+        <dc:creator>By THE ASSOCIATED PRESS</dc:creator>
+    </item>
+    <item>
+        <atom:link href="http://cityroom.blogs.nytimes.com/2014/08/20/vandalism-at-the-whitney-museum-of-art/?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>City Room: Vandalism at the Whitney Museum of Art</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db8386a/sc/38/l/0Lcityroom0Bblogs0Bnytimes0N0C20A140C0A80C20A0Cvandalism0Eat0Ethe0Ewhitney0Emuseum0Eof0Eart0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>A man splashed a red substance on a blank gallery wall where the Jeff Koons retrospective is on display.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db8386a/sc/38/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/">Museums</category>
+        <category domain="http://www.nytimes.com/namespaces/">Art</category>
+        <category domain="http://www.nytimes.com/namespaces/">Koons, Jeff</category>
+        <category domain="http://www.nytimes.com/namespaces/">Vandalism</category>
+        <category domain="http://www.nytimes.com/namespaces/">Whitney Museum of American Art</category>
+        <category domain="http://www.nytimes.com/namespaces/">Cultural Affairs</category>
+        <pubDate>Thu, 21 Aug 2014 10:18:15 GMT</pubDate>
+        <guid isPermaLink="false">http://cityroom.blogs.nytimes.com/2014/08/20/vandalism-at-the-whitney-museum-of-art/</guid>
+        <dc:creator>By THE NEW YORK TIMES</dc:creator>
+        <media:credit scheme="urn:ebu">Antoine Lutens</media:credit>
+        <media:description/>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/nyregion/WHITNEY/WHITNEY-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/us/in-ferguson-scrutiny-on-police-is-growing.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>In Ferguson, Scrutiny on Police Is Growing</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db3acd2/sc/7/l/0L0Snytimes0N0C20A140C0A80C210Cus0Cin0Eferguson0Escrutiny0Eon0Epolice0Eis0Egrowing0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Two new lawsuits were filed against the department on Tuesday over the 2011 death of a man whom the police tried to subdue with a Taser gun.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db3acd2/sc/7/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366731182/u/192/f/640350/c/34625/s/3db3acd2/sc/7/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366731182/u/192/f/640350/c/34625/s/3db3acd2/sc/7/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366731182/u/192/f/640350/c/34625/s/3db3acd2/sc/7/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366731182/u/192/f/640350/c/34625/s/3db3acd2/sc/7/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366731182/u/192/f/640350/c/34625/s/3db3acd2/sc/7/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366731182/u/192/f/640350/c/34625/s/3db3acd2/sc/7/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366731182/u/192/f/640350/c/34625/s/3db3acd2/sc/7/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366731182/u/192/f/640350/c/34625/s/3db3acd2/sc/7/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366731182/u/192/f/640350/c/34625/s/3db3acd2/sc/7/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Civil Rights and Liberties</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferguson (Mo)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+        <pubDate>Thu, 21 Aug 2014 09:22:17 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/us/in-ferguson-scrutiny-on-police-is-growing.html</guid>
+        <dc:creator/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/22/world/middleeast/israel-gaza-strip.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Israeli Strike in Gaza Strip Kills 3 Top Hamas Commanders</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db63d01/sc/11/l/0L0Snytimes0N0C20A140C0A80C220Cworld0Cmiddleeast0Cisrael0Egaza0Estrip0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>The strike early Thursday was the most significant blow to the armed wing of Hamas’s leadership since Israel’s Gaza operation began six weeks ago.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db63d01/sc/11/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366751387/u/192/f/640350/c/34625/s/3db63d01/sc/11/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366751387/u/192/f/640350/c/34625/s/3db63d01/sc/11/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366751387/u/192/f/640350/c/34625/s/3db63d01/sc/11/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366751387/u/192/f/640350/c/34625/s/3db63d01/sc/11/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366751387/u/192/f/640350/c/34625/s/3db63d01/sc/11/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366751387/u/192/f/640350/c/34625/s/3db63d01/sc/11/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366751387/u/192/f/640350/c/34625/s/3db63d01/sc/11/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366751387/u/192/f/640350/c/34625/s/3db63d01/sc/11/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366751387/u/192/f/640350/c/34625/s/3db63d01/sc/11/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Izzedine al-Qassam Brigades</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Hamas</category>
+        <pubDate>Thu, 21 Aug 2014 09:17:38 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/22/world/middleeast/israel-gaza-strip.html</guid>
+        <dc:creator>By JODI RUDOREN and FARES AKRAM</dc:creator>
+    </item>
+    <item>
+        <atom:link href="http://lens.blogs.nytimes.com/2014/08/21/photographing-both-sides-in-ukraine/?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Lens Blog: Photographing Both Sides in Ukraine</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db6bc72/sc/10/l/0Llens0Bblogs0Bnytimes0N0C20A140C0A80C210Cphotographing0Eboth0Esides0Ein0Eukraine0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>“Sometimes you accumulate too many sad moments,” said Mauricio Lima, who has been on assignment for The Times in eastern Ukraine.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db6bc72/sc/10/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/">Defense and Military Forces</category>
+        <category domain="http://www.nytimes.com/namespaces/">Terrorism</category>
+        <category domain="http://www.nytimes.com/namespaces/">Photography</category>
+        <category domain="http://www.nytimes.com/namespaces/">Russia</category>
+        <category domain="http://www.nytimes.com/namespaces/">Lima (Peru)</category>
+        <category domain="http://www.nytimes.com/namespaces/">Luhansk</category>
+        <category domain="http://www.nytimes.com/namespaces/">Ukraine</category>
+        <category domain="http://www.nytimes.com/namespaces/">Maidan protests</category>
+        <category domain="http://www.nytimes.com/namespaces/">Donetsk (Ukraine)</category>
+        <category domain="http://www.nytimes.com/namespaces/">Afghanistan War (2001- )</category>
+        <category domain="http://www.nytimes.com/namespaces/">Taliban</category>
+        <category domain="http://www.nytimes.com/namespaces/">James Estrin</category>
+        <category domain="http://www.nytimes.com/namespaces/">Makiivka</category>
+        <category domain="http://www.nytimes.com/namespaces/">Luhansk (Ukraine)</category>
+        <category domain="http://www.nytimes.com/namespaces/">Mauricio Lima</category>
+        <category domain="http://www.nytimes.com/namespaces/">Afghanistan</category>
+        <category domain="http://www.nytimes.com/namespaces/">Q &amp; A</category>
+        <category domain="http://www.nytimes.com/namespaces/">Iraq</category>
+        <category domain="http://www.nytimes.com/namespaces/">Eastern Ukraine</category>
+        <category domain="http://www.nytimes.com/namespaces/">Donetsk</category>
+        <category domain="http://www.nytimes.com/namespaces/">The New York Times Lens Blog</category>
+        <pubDate>Thu, 21 Aug 2014 09:00:35 GMT</pubDate>
+        <guid isPermaLink="false">http://lens.blogs.nytimes.com/2014/08/21/photographing-both-sides-in-ukraine/</guid>
+        <dc:creator>By MAURICIO LIMA</dc:creator>
+        <media:credit scheme="urn:ebu">Mauricio Lima for The New York Times</media:credit>
+        <media:description>Residents collected water underneath a bridge as several explosions could be heard in central Luhansk. Aug. 14, 2014.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/20/blogs/20140820-lens-lima-slide-OXBY/20140820-lens-lima-slide-OXBY-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/22/us/ferguson-missouri-protests.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>A Night of Relatively Calm Protests in Ferguson</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db6bc63/sc/1/l/0L0Snytimes0N0C20A140C0A80C220Cus0Cferguson0Emissouri0Eprotests0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>There were no real confrontations in the Missouri town overnight, although tensions grew when two protesters turned out in support of the police officer who killed Michael Brown.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db6bc63/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Michael (1996-2014)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferguson (Mo)</category>
+        <pubDate>Thu, 21 Aug 2014 08:44:18 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/22/us/ferguson-missouri-protests.html</guid>
+        <dc:creator>By JOSEPH GOLDSTEIN and MOSI SECRET</dc:creator>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/sports/baseball/a-young-players-success-resonates-beyond-a-sport-.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Analysis: Mo’ne Davis’s Little League World Series Run Draws Appreciation</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db59e48/sc/13/l/0L0Snytimes0N0C20A140C0A80C210Csports0Cbaseball0Ca0Eyoung0Eplayers0Esuccess0Eresonates0Ebeyond0Ea0Esport0E0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Mo’ne Davis and her Philadelphia team lost to Las Vegas, 8-1, at the Little League World Series, but she has inspired a wide following in athletics and elsewhere.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db59e48/sc/13/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366748446/u/192/f/640350/c/34625/s/3db59e48/sc/13/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366748446/u/192/f/640350/c/34625/s/3db59e48/sc/13/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366748446/u/192/f/640350/c/34625/s/3db59e48/sc/13/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366748446/u/192/f/640350/c/34625/s/3db59e48/sc/13/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366748446/u/192/f/640350/c/34625/s/3db59e48/sc/13/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366748446/u/192/f/640350/c/34625/s/3db59e48/sc/13/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366748446/u/192/f/640350/c/34625/s/3db59e48/sc/13/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366748446/u/192/f/640350/c/34625/s/3db59e48/sc/13/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366748446/u/192/f/640350/c/34625/s/3db59e48/sc/13/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Little League Baseball and Softball</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Baseball</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Little League World Series</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Mo'ne</category>
+        <pubDate>Thu, 21 Aug 2014 04:13:26 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/sports/baseball/a-young-players-success-resonates-beyond-a-sport-.html</guid>
+        <dc:creator>By JERÉ LONGMAN</dc:creator>
+        <media:credit scheme="urn:ebu">Brett Carlsen for The New York Times</media:credit>
+        <media:description>Mo’ne Davis drew a capacity crowd to the Little League World Series on Wednesday night.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/sports/LONGMANfloater/LONGMANfloater-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/upshot/how-a-part-time-pay-penalty-hits-working-mothers.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Women's Wages: How a Part-Time Pay Penalty Hits Working Mothers</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db6bc54/sc/36/l/0L0Snytimes0N0C20A140C0A80C210Cupshot0Chow0Ea0Epart0Etime0Epay0Epenalty0Ehits0Eworking0Emothers0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Working fewer than 40 hours per week, as women are likelier than men to do, often results in a lower per-hour wage, furthering the gender gap in pay.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db6bc54/sc/36/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Part-Time Employment</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Minimum Wage</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Wages and Salaries</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+        <pubDate>Thu, 21 Aug 2014 04:12:10 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/upshot/how-a-part-time-pay-penalty-hits-working-mothers.html</guid>
+        <dc:creator>By CLAIRE CAIN MILLER</dc:creator>
+        <media:credit scheme="urn:ebu">Yalonda M. James/The Commercial Appeal, via Associated Press</media:credit>
+        <media:description>Natalie Vazquez, 27, at a barbecue restaurant in Memphis. Food-service jobs are among the worst in pay disparities for part-time workers.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/upshot/21up-paygap/21up-paygap-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/sports/being-a-girl-gives-mone-davis-an-edge-at-little-league-world-series.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Mo’ne Davis, an Ace at the Little League World Series, Proves to Be a Woman Among Boys</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db31350/sc/13/l/0L0Snytimes0N0C20A140C0A80C210Csports0Cbeing0Ea0Egirl0Egives0Emone0Edavis0Ean0Eedge0Eat0Elittle0Eleague0Eworld0Eseries0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Players in the series range from ages 11 to 13, a time of enormous physical change. But not all change is equal, and girls generally get a two-year head start on their growth spurts.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db31350/sc/13/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366789358/u/192/f/640350/c/34625/s/3db31350/sc/13/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366789358/u/192/f/640350/c/34625/s/3db31350/sc/13/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366789358/u/192/f/640350/c/34625/s/3db31350/sc/13/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366789358/u/192/f/640350/c/34625/s/3db31350/sc/13/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366789358/u/192/f/640350/c/34625/s/3db31350/sc/13/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366789358/u/192/f/640350/c/34625/s/3db31350/sc/13/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366789358/u/192/f/640350/c/34625/s/3db31350/sc/13/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366789358/u/192/f/640350/c/34625/s/3db31350/sc/13/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366789358/u/192/f/640350/c/34625/s/3db31350/sc/13/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Little League World Series</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Mo'ne</category>
+        <pubDate>Thu, 21 Aug 2014 04:10:22 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/sports/being-a-girl-gives-mone-davis-an-edge-at-little-league-world-series.html</guid>
+        <dc:creator>By SCOTT CACCIOLA</dc:creator>
+        <media:credit scheme="urn:ebu">Brett Carlsen for The New York Times</media:credit>
+        <media:description>Mo'ne Davis pitching during her team's 8-1 loss on Wednesday. She struck out six but also gave up six hits and three runs in two and one-third innings.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/sports/CITY-JP-DAVIS/CITY-JP-DAVIS-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://well.blogs.nytimes.com/2014/08/21/is-breakfast-overrated/?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Well: Is Breakfast Overrated?</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db77bd0/sc/14/l/0Lwell0Bblogs0Bnytimes0N0C20A140C0A80C210Cis0Ebreakfast0Eoverrated0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Researchers are questioning the assumptions behind morning meals.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db77bd0/sc/14/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/">Food</category>
+        <category domain="http://www.nytimes.com/namespaces/">Cholesterol</category>
+        <category domain="http://www.nytimes.com/namespaces/">Research</category>
+        <category domain="http://www.nytimes.com/namespaces/">Weight</category>
+        <category domain="http://www.nytimes.com/namespaces/">American Journal of Clinical Nutrition</category>
+        <category domain="http://www.nytimes.com/namespaces/">Featured</category>
+        <category domain="http://www.nytimes.com/namespaces/">Diet and Nutrition</category>
+        <pubDate>Thu, 21 Aug 2014 04:01:29 GMT</pubDate>
+        <guid isPermaLink="false">http://well.blogs.nytimes.com/2014/08/21/is-breakfast-overrated/</guid>
+        <dc:creator>By GRETCHEN REYNOLDS</dc:creator>
+        <media:credit scheme="urn:ebu">Illustration by Ben Wiseman</media:credit>
+        <media:description/>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/24/magazine/24well/mag-24Well-t_CA0-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/business/media/popular-and-free-soundcloud-is-now-ready-for-ads.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Popular and Free, SoundCloud Is Now Ready for Ads</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db6bc70/sc/4/l/0L0Snytimes0N0C20A140C0A80C210Cbusiness0Cmedia0Cpopular0Eand0Efree0Esoundcloud0Eis0Enow0Eready0Efor0Eads0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>On Thursday, as part of a new licensing deal with entertainment companies, SoundCloud will begin incorporating advertising and for the first time let artists and record labels collect royalties.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db6bc70/sc/4/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Twitter|TWTR|NYSE</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Royalties</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">SoundCloud</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Advertising and Marketing</category>
+        <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Sony Corporation|SNE|NYSE</category>
+        <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Pandora Media Inc|P|NYSE</category>
+        <pubDate>Thu, 21 Aug 2014 04:01:16 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/business/media/popular-and-free-soundcloud-is-now-ready-for-ads.html</guid>
+        <dc:creator>By BEN SISARIO</dc:creator>
+        <media:credit scheme="urn:ebu">Jake Naughton for The New York Times</media:credit>
+        <media:description>Using the music service on a smartphone.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/business/SoundCloud2/SoundCloud2-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/world/asia/top-general-becomes-thai-prime-minister-sealing-militarys-rule.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Top General Is Named Thai Prime Minister, Sealing Military’s Rule</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db47291/sc/11/l/0L0Snytimes0N0C20A140C0A80C210Cworld0Casia0Ctop0Egeneral0Ebecomes0Ethai0Eprime0Eminister0Esealing0Emilitarys0Erule0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Prayuth Chan-ocha, who led the overthrow of Thailand’s government in May, was named prime minister Thursday by a rubber-stamp legislature.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db47291/sc/11/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366788666/u/192/f/640350/c/34625/s/3db47291/sc/11/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366788666/u/192/f/640350/c/34625/s/3db47291/sc/11/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366788666/u/192/f/640350/c/34625/s/3db47291/sc/11/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366788666/u/192/f/640350/c/34625/s/3db47291/sc/11/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366788666/u/192/f/640350/c/34625/s/3db47291/sc/11/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366788666/u/192/f/640350/c/34625/s/3db47291/sc/11/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366788666/u/192/f/640350/c/34625/s/3db47291/sc/11/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366788666/u/192/f/640350/c/34625/s/3db47291/sc/11/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366788666/u/192/f/640350/c/34625/s/3db47291/sc/11/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prayuth Chan-ocha</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+        <pubDate>Thu, 21 Aug 2014 03:58:20 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/world/asia/top-general-becomes-thai-prime-minister-sealing-militarys-rule.html</guid>
+        <dc:creator>By THOMAS FULLER</dc:creator>
+        <media:credit scheme="urn:ebu">Pm.Amaro/Associated Press</media:credit>
+        <media:description>Gen. Prayuth Chan-ocha was chosen as prime minister by the National Legislative Assembly, whose members were handpicked by the junta last month.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/22/world/21thailand-cnd/21thailand-cnd-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://dealbook.nytimes.com/2014/08/20/bank-of-america-expected-to-settle-huge-mortgage-case/?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>DealBook: $16.65 Billion Mortgage Settlement Nears for Bank of America</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db42e41/sc/24/l/0Ldealbook0Bnytimes0N0C20A140C0A80C20A0Cbank0Eof0Eamerica0Eexpected0Eto0Esettle0Ehuge0Emortgage0Ecase0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Even as the accord nears completion, prosecutors are preparing a separate civil case against Angelo Mozilo, the man who came to embody the risk-taking for which Bank of America is now paying dearly.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db42e41/sc/24/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741484/u/192/f/640350/c/34625/s/3db42e41/sc/24/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366741484/u/192/f/640350/c/34625/s/3db42e41/sc/24/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741484/u/192/f/640350/c/34625/s/3db42e41/sc/24/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366741484/u/192/f/640350/c/34625/s/3db42e41/sc/24/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741484/u/192/f/640350/c/34625/s/3db42e41/sc/24/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366741484/u/192/f/640350/c/34625/s/3db42e41/sc/24/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741484/u/192/f/640350/c/34625/s/3db42e41/sc/24/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366741484/u/192/f/640350/c/34625/s/3db42e41/sc/24/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366741484/u/192/f/640350/c/34625/s/3db42e41/sc/24/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/">Mortgages</category>
+        <category domain="http://www.nytimes.com/namespaces/">Countrywide Financial Corp</category>
+        <category domain="http://www.nytimes.com/namespaces/">Suits and Litigation (Civil)</category>
+        <category domain="http://www.nytimes.com/namespaces/">Investment Banking</category>
+        <category domain="http://www.nytimes.com/namespaces/">Mortgage-Backed Securities</category>
+        <category domain="http://www.nytimes.com/namespaces/">Bank of America Corporation</category>
+        <category domain="http://www.nytimes.com/namespaces/">Legal/Regulatory</category>
+        <category domain="http://www.nytimes.com/namespaces/">Holder, Eric H Jr</category>
+        <category domain="http://www.nytimes.com/namespaces/">Bank of America Corporation|BAC|NYSE</category>
+        <category domain="http://www.nytimes.com/namespaces/">Banking and Financial Institutions</category>
+        <category domain="http://www.nytimes.com/namespaces/">Financial Services</category>
+        <category domain="http://www.nytimes.com/namespaces/">Merrill Lynch &amp; Co</category>
+        <category domain="http://www.nytimes.com/namespaces/">Top Headline 1</category>
+        <category domain="http://www.nytimes.com/namespaces/">Justice Department</category>
+        <pubDate>Thu, 21 Aug 2014 02:54:09 GMT</pubDate>
+        <guid isPermaLink="false">http://dealbook.nytimes.com/2014/08/20/bank-of-america-expected-to-settle-huge-mortgage-case/</guid>
+        <dc:creator>By BEN PROTESS, JESSICA SILVER-GREENBERG and MICHAEL CORKERY</dc:creator>
+        <media:credit scheme="urn:ebu">Justin Sullivan/Getty Images</media:credit>
+        <media:description>Brian T. Moynihan, the chief of Bank of America. He spoke on the phone with Attorney General Eric H. Holder Jr.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/business/Bankjp/Bankjp-moth-v2.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://dealbook.nytimes.com/2014/08/20/first-investors-financial-services-pays-penalty-in-credit-report-case/?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>DealBook: Texas Car Lender Is Accused of Distortion in Subprime Inquiry</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db562e0/sc/2/l/0Ldealbook0Bnytimes0N0C20A140C0A80C20A0Cfirst0Einvestors0Efinancial0Eservices0Epays0Epenalty0Ein0Ecredit0Ereport0Ecase0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>First Investors Financial Services Group is accused of giving credit reporting agencies flawed data about thousands of car buyers.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db562e0/sc/2/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/">Regulation and Deregulation of Industry</category>
+        <category domain="http://www.nytimes.com/namespaces/">Investment Banking</category>
+        <category domain="http://www.nytimes.com/namespaces/">Top Headline 2</category>
+        <category domain="http://www.nytimes.com/namespaces/">Autos</category>
+        <category domain="http://www.nytimes.com/namespaces/">Legal/Regulatory</category>
+        <category domain="http://www.nytimes.com/namespaces/">Credit and Debt</category>
+        <category domain="http://www.nytimes.com/namespaces/">Personal Finances</category>
+        <category domain="http://www.nytimes.com/namespaces/">Banking and Financial Institutions</category>
+        <category domain="http://www.nytimes.com/namespaces/">Financial Services</category>
+        <category domain="http://www.nytimes.com/namespaces/">Consumer Protection</category>
+        <category domain="http://www.nytimes.com/namespaces/">Top Headline 1</category>
+        <category domain="http://www.nytimes.com/namespaces/">Automobile Financing</category>
+        <pubDate>Thu, 21 Aug 2014 01:57:59 GMT</pubDate>
+        <guid isPermaLink="false">http://dealbook.nytimes.com/2014/08/20/first-investors-financial-services-pays-penalty-in-credit-report-case/</guid>
+        <dc:creator>By JESSICA SILVER-GREENBERG and MICHAEL CORKERY</dc:creator>
+        <media:credit scheme="urn:ebu">Yuri Gripas/Reuters</media:credit>
+        <media:description>Richard Cordray, director of the Consumer Financial Protection Bureau, at a House panel last month.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/business/dbpix-subprime-cordray/dbpix-subprime-cordray-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/world/middleeast/isis-pressed-for-ransom-before-killing-journalist.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>ISIS Demanded Ransom From U.S. Before Killing Reporter</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db42e33/sc/1/l/0L0Snytimes0N0C20A140C0A80C210Cworld0Cmiddleeast0Cisis0Epressed0Efor0Eransom0Ebefore0Ekilling0Ejournalist0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>The militants had pressed the United States to provide several million dollars for the release of James Foley, an American journalist killed in retaliation for recent airstrikes in Iraq.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db42e33/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741483/u/192/f/640350/c/34625/s/3db42e33/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366741483/u/192/f/640350/c/34625/s/3db42e33/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741483/u/192/f/640350/c/34625/s/3db42e33/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366741483/u/192/f/640350/c/34625/s/3db42e33/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741483/u/192/f/640350/c/34625/s/3db42e33/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366741483/u/192/f/640350/c/34625/s/3db42e33/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741483/u/192/f/640350/c/34625/s/3db42e33/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366741483/u/192/f/640350/c/34625/s/3db42e33/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366741483/u/192/f/640350/c/34625/s/3db42e33/sc/1/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steven Sotloff</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Murders and Attempted Murders</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bribery and Kickbacks</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Kidnapping</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Hostages</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Foley, James (1973- )</category>
+        <pubDate>Thu, 21 Aug 2014 01:52:18 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/world/middleeast/isis-pressed-for-ransom-before-killing-journalist.html</guid>
+        <dc:creator>By RUKMINI CALLIMACHI</dc:creator>
+        <media:credit scheme="urn:ebu">Manu Brabo/freejamesfoley.org, via Associated Press</media:credit>
+        <media:description>James Foley in 2012 in Aleppo, Syria.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/world/21FOLEY/21FOLEY-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/us/what-started-as-a-local-protest-in-missouri-grows-into-a-center-of-national-activism.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>What Started as a Local Protest in Missouri Grows Into a Center of National Activism</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db42e3e/sc/1/l/0L0Snytimes0N0C20A140C0A80C210Cus0Cwhat0Estarted0Eas0Ea0Elocal0Eprotest0Ein0Emissouri0Egrows0Einto0Ea0Ecenter0Eof0Enational0Eactivism0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Of the 103 people taken into custody during overnight protests on Monday and Tuesday, 23 were from out of state, and the influx has bothered some residents.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db42e3e/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741482/u/192/f/640350/c/34625/s/3db42e3e/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366741482/u/192/f/640350/c/34625/s/3db42e3e/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741482/u/192/f/640350/c/34625/s/3db42e3e/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366741482/u/192/f/640350/c/34625/s/3db42e3e/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741482/u/192/f/640350/c/34625/s/3db42e3e/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366741482/u/192/f/640350/c/34625/s/3db42e3e/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366741482/u/192/f/640350/c/34625/s/3db42e3e/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366741482/u/192/f/640350/c/34625/s/3db42e3e/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366741482/u/192/f/640350/c/34625/s/3db42e3e/sc/1/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Twitter|TWTR|NYSE</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Police Brutality, Misconduct and Shootings</category>
+        <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Facebook Inc|FB|NASDAQ</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Anonymous (Internet Group)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferguson (Mo)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Occupy Wall Street</category>
+        <pubDate>Thu, 21 Aug 2014 01:44:38 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/us/what-started-as-a-local-protest-in-missouri-grows-into-a-center-of-national-activism.html</guid>
+        <dc:creator>By MICHAEL WINES</dc:creator>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/us/in-ferguson-anger-hurt-and-moments-of-hope.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Anger, Hurt and Moments of Hope in Ferguson</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db42e3c/sc/7/l/0L0Snytimes0N0C20A140C0A80C210Cus0Cin0Eferguson0Eanger0Ehurt0Eand0Emoments0Eof0Ehope0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Ever since a white police officer fatally shot an unarmed black youth two Saturdays ago, this St. Louis suburb has been deeply troubled.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db42e3c/sc/7/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366755303/u/192/f/640350/c/34625/s/3db42e3c/sc/7/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366755303/u/192/f/640350/c/34625/s/3db42e3c/sc/7/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366755303/u/192/f/640350/c/34625/s/3db42e3c/sc/7/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366755303/u/192/f/640350/c/34625/s/3db42e3c/sc/7/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366755303/u/192/f/640350/c/34625/s/3db42e3c/sc/7/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/204366755303/u/192/f/640350/c/34625/s/3db42e3c/sc/7/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/204366755303/u/192/f/640350/c/34625/s/3db42e3c/sc/7/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/204366755303/u/192/f/640350/c/34625/s/3db42e3c/sc/7/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/204366755303/u/192/f/640350/c/34625/s/3db42e3c/sc/7/a2t.img" border="0"/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Police Brutality, Misconduct and Shootings</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Michael (1996-2014)</category>
+        <category domain="http://www.nytimes.com/namespaces/nyt_org_all">McDonald's Corporation|MCD|NYSE</category>
+        <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Target Corporation|TGT|NYSE</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferguson (Mo)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Looting (Crime)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+        <pubDate>Thu, 21 Aug 2014 01:28:41 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/us/in-ferguson-anger-hurt-and-moments-of-hope.html</guid>
+        <dc:creator>By JOHN ELIGON</dc:creator>
+        <media:credit scheme="urn:ebu">Eric Thayer for The New York Times</media:credit>
+        <media:description>Protesters and police officers lined West Florissant Avenue on Tuesday in Ferguson, Mo.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/us/subFERGUSON/subFERGUSON-moth-v2.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/nyregion/brooklyn-man-is-convicted-of-making-false-911-calls.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>Brooklyn Man Is Convicted of Making False 911 Calls</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db42e43/sc/7/l/0L0Snytimes0N0C20A140C0A80C210Cnyregion0Cbrooklyn0Eman0Eis0Econvicted0Eof0Emaking0Efalse0E9110Ecalls0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Louis Segna, a 53-year-old resident of the Williamsburg neighborhood, provided myriad details of imaginary incidents like explosions inside a subway tunnel and a person in a van with a pistol.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db42e43/sc/7/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Nine-One-One (911) (Emergency Phone Number)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Williamsburg (Brooklyn, NY)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Police Department (NYC)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Segna, Louis (1961- )</category>
+        <pubDate>Thu, 21 Aug 2014 01:27:01 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/nyregion/brooklyn-man-is-convicted-of-making-false-911-calls.html</guid>
+        <dc:creator>By COLIN MOYNIHAN</dc:creator>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/us/st-louis-county-prosecutor-defends-objectivity.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>St. Louis County Prosecutor Defends Objectivity</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db6bc69/sc/1/l/0L0Snytimes0N0C20A140C0A80C210Cus0Cst0Elouis0Ecounty0Eprosecutor0Edefends0Eobjectivity0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Citing his past, critics have called for the removal of Robert P. McCulloch, who said he would present the Michael Brown shooting case to a grand jury.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db6bc69/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders and Attempted Murders</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robert P. McCulloch</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Conflicts of Interest</category>
+        <pubDate>Thu, 21 Aug 2014 01:20:04 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/us/st-louis-county-prosecutor-defends-objectivity.html</guid>
+        <dc:creator>By FRANCES ROBLES</dc:creator>
+        <media:credit scheme="urn:ebu">Joe Raedle/Getty Images</media:credit>
+        <media:description>A demonstration on Wednesday at the Buzz Westfall Justice Center in Clayton, Mo., where a grand jury will look into the fatal police shooting of Michael Brown.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/us/PROSECUTOR2/PROSECUTOR2-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/nyregion/for-service-on-some-juries-expect-a-lengthy-written-test.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>TV Habits? Medical History? Tests for Jury Duty Get Personal</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db6bc6d/sc/10/l/0L0Snytimes0N0C20A140C0A80C210Cnyregion0Cfor0Eservice0Eon0Esome0Ejuries0Eexpect0Ea0Elengthy0Ewritten0Etest0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Questionnaires have become increasingly familiar in courtrooms, with some questions covering basic issues and others bordering on the obscure.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db6bc6d/sc/10/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">questionnaire</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Bar Assn</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Jury System</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Jury selection</category>
+        <pubDate>Thu, 21 Aug 2014 01:16:50 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/nyregion/for-service-on-some-juries-expect-a-lengthy-written-test.html</guid>
+        <dc:creator>By STEPHANIE CLIFFORD</dc:creator>
+        <media:credit scheme="urn:ebu">Piotr Redlinski for The New York Times</media:credit>
+        <media:description>Roy Futterman, a jury selection expert at Doar Litigation Consulting, says that having charismatic jurors on the client’s side is vital.</media:description>
+        <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/08/21/nyregion/sub-y-jp-JURY/sub-y-jp-JURY-moth.jpg"/>
+    </item>
+    <item>
+        <atom:link href="http://www.nytimes.com/2014/08/21/world/middleeast/from-arrests-to-beheadings-conflict-reporting-takes-harsh-toll-on-journalists.html?partner=rss&amp;emc=rss" rel="standout"/>
+        <title>From Missouri to Syria, Journalists Are Becoming Targets</title>
+        <link>http://rss.nytimes.com/c/34625/f/640350/s/3db42e39/sc/8/l/0L0Snytimes0N0C20A140C0A80C210Cworld0Cmiddleeast0Cfrom0Earrests0Eto0Ebeheadings0Econflict0Ereporting0Etakes0Eharsh0Etoll0Eon0Ejournalists0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+        <description>Reporters, editors and those who monitor the freedom of the press describe a harsh environment for reporters, in the United States and abroad.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640350/s/3db42e39/sc/8/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Middle East and North Africa Unrest (2010- )</category>
+        <category domain="http://www.nytimes.com/namespaces/nyt_org_all">McDonald's Corporation|MCD|NYSE</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Committee to Protect Journalists</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Freedom of the Press</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ferguson (Mo)</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rezaian, Jason</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosenberg, Matthew</category>
+        <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Foley, James (1973- )</category>
+        <pubDate>Thu, 21 Aug 2014 01:16:38 GMT</pubDate>
+        <guid isPermaLink="false">http://www.nytimes.com/2014/08/21/world/middleeast/from-arrests-to-beheadings-conflict-reporting-takes-harsh-toll-on-journalists.html</guid>
+        <dc:creator>By RAVI SOMAIYA and CHRISTINE HAUGHNEY</dc:creator>
+    </item>
+</channel>
+</rss>
+
